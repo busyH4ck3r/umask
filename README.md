@@ -5,7 +5,7 @@ This python program masks an IP address or malicious link during a social engine
 ## Installation
 
 ```bash
-> git clone https://github.com/yogeshwaran01/maskurl
+> git clone https://github.com/busyH4ck3r/umask.git
 > cd umask master
 > python3 umask.py
 ```
@@ -15,4 +15,4 @@ Usage of this tool for malicious purposes is not the developer's fault. if you g
 
 ## Credits
 
-This Scrpit is inspired from [jaykali's maskphish](https://github.com/jaykali/maskphish)
+This Scrpit is inspired from [jaykali's maskphish](https://github.com/jaykali/maskphish) 
